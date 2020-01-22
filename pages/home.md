@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CRBio
-description: Towards developing a theme for research project websites
+description: Centro de Investigación en Informática de la Biodiversidad
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
