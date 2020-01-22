@@ -6,8 +6,7 @@ background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-{: .alert .alert-info}
-This is a demo website for [Petridish](https://github.com/peterdesmet/petridish): a Jekyll theme for research project websites.
+El fin primordial de CRBio es facilitar y promover el acceso libre y abierto a datos e información sobre biodiversidad mediante tecnologías de información y comunicación para apoyar la investigación, la educación, la toma de decisiones y la conservación del medio ambiente.
 
 Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
 
