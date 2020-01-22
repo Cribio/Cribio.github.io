@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
+title: CRBio                        # Title in top navigation bar (navbar) and <head>
+description: Centro de Investigación en Informática de la Biodiversidad  # Site description in <head>
 author: Peter Desmet                    # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"
 # baseurl: "/petridish"
