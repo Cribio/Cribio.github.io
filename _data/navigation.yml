@@ -2,7 +2,7 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
+- text: Acerca de
   href: /about/
 - text: Team
   href: /team/
@@ -13,9 +13,9 @@
   - text: Page 2
     href: /about/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: External link
-    href: https://github.com/peterdesmet/petridish/blob/master/_data/navigation.yml
+  - text: "Portales" # Title for block of menu items
+  - text: "Altas de la Biodiversidad de Costa Rica"
+    href: http://www.crbio.cr
     new_window: true
-- text: News
+- text: Noticias
   href: /blog/
