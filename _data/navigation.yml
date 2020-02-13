@@ -13,15 +13,15 @@
   - text: Page 2
     href: /about/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Altas de la Biodiversidad de Costa Rica" # Title for block of menu items
-  - text: "Altas de la Biodiversidad de Costa Rica"
+  - text: "Portales" # Title for block of menu items
+  - text: "Atlas de la Biodiversidad de Costa Rica"
     href: http://www.crbio.cr
     new_window: true
   - text: Información general sobre especies
     href: http://www.crbio.cr:8080/neoportal-web/groupNav?gni=579
     new_window: true
   - text: Registros de presencia de especies
-    href: # http://datos.crbio.cr/generic-hub/search#tab_simpleSearch
+    href: http://datos.crbio.cr/generic-hub/search#tab_simpleSearch
 #  - text: Explore la biodiversidad de su área
 #    href: # http://datos.crbio.cr/generic-hub/explore/your-area?default=true
 #  - text: Fuentes de datos
