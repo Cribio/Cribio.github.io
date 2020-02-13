@@ -16,7 +16,6 @@
   - text: "Portales" # Title for block of menu items
   - text: "Altas de la Biodiversidad de Costa Rica"
     href: http://www.crbio.cr
-    new_window: true
   - text: Información general sobre especies
     href: http://www.crbio.cr:8080/neoportal-web/groupNav?gni=579
   - text: Registros de presencia de especies
@@ -25,5 +24,6 @@
     href: http://datos.crbio.cr/generic-hub/explore/your-area?default=true
   - text: Fuentes de datos
     href: http://datos.crbio.cr/collectory/
+    new_window: true
 - text: Noticias
   href: /blog/
