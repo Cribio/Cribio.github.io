@@ -5,10 +5,10 @@
 columns:
   - description:
     links:
-    - text: GBIF
+    - text: Global Biodiversity Information Facility (GBIF)
       href: http://www.gbif.org
       new_window: true
-    - text: TDWG
+    - text: Biodiversity Information Standards (TDWG)
       href: http://www.tdwg.org
       new_window: true
 
