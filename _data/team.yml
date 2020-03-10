@@ -8,7 +8,7 @@
   orcid: 0000-0000-0000-0000
   email: maria.mora@crbio.org
   github: marimoracross
-  twitter: twitter_name
+#  twitter: twitter_name
 
 - name: Manuel Vargas
   role: Secretario
@@ -18,7 +18,7 @@
   orcid: 0000-0003-2863-2491
   email: MVargas@crbio.org
   github: mfvargas
-  twitter: WUlate
+  twitter: mfvargascr
 
 - name: Jose Cuadra
   role: Tesorero
@@ -28,7 +28,7 @@
   orcid: 0000-0003-2863-2491
   email: JCuadra@crbio.org
   github: josecuadra
-  twitter: twitter_name
+#  twitter: twitter_name
 
 - name: William Ulate
   role: Associate Member # Will appear next to name
