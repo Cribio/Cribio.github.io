@@ -34,7 +34,7 @@
   role: Associate Member # Will appear next to name
   image: assets/img/William.jpg # Can be external link
   description: > # Can be Markdown
-    A father of one, Computer Scientist, 21 years in Biodiversity Informatics, flew from Costa Rica to work at Missouri Botanical Garden on International projects!
+    ¡Padre de una; graduado en Ciencias de la Computación; 21 años en Informatica de la Biodiversidad; dejó Costa Rica para trabajar en el Jardín Botánico de Missouri en Proyectos Internacionales! | A father of one, Computer Scientist, 21 years in Biodiversity Informatics, left his beloved Costa Rica to work at Missouri Botanical Garden on International projects!
   orcid: 0000-0003-2863-2491
   email: WUlate@crbio.org
   github: WUlate
