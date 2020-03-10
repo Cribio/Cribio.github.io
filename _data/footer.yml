@@ -5,11 +5,11 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: GBIF
+      href: http://www.gbif.org
       new_window: true
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: TDWG
+      href: http://www.tdwg.org
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
