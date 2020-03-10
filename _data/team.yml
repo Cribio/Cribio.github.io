@@ -1,24 +1,41 @@
 # Project team members listed below will appear on the /team page
 
-- name: William Ulate
-  role: Delivery boy # Will appear next to name
+- name: María Auxiliadora Mora
+  role: Presidenta # Will appear next to name
   image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+    Costa Rican Institute of Technology (ITCR) | TEC · Prof. Escuela de Ingeniería en Computación.
   orcid: 0000-0000-0000-0000
-  email: your.email@example.com
-  github: github_name
+  email: maria.mora@crbio.org
+  github: marimoracross
   twitter: twitter_name
 
-- name: Turanga Leela
-  role: Captain
+- name: Manuel Vargas
+  role: Secretario
   image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    Informático especializado en sistemas de información geográfica e informática de la biodiversidad. 
+  orcid: 0000-0003-2863-2491
+  email: MVargas@crbio.org
+  github: mfvargas
+  twitter: WUlate
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
+- name: Jose Cuadra
+  role: Tesorero
   image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Programador.
+  orcid: 0000-0003-2863-2491
+  email: JCuadra@crbio.org
+  github: josecuadra
+  twitter: twitter_name
+
+- name: William Ulate
+  role: Associate Member # Will appear next to name
+  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  description: > # Can be Markdown
+    A father of one, Computer Scientist, 21 years in Biodiversity Informatics, flew from Costa Rica to work at Missouri Botanical Garden on International projects!
+  orcid: 0000-0003-2863-2491
+  email: WUlate@crbio.org
+  github: WUlate
+  twitter: WUlate
