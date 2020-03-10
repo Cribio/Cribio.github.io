@@ -32,7 +32,7 @@
 
 - name: William Ulate
   role: Associate Member # Will appear next to name
-  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/img/william.jpg # Can be external link
   description: > # Can be Markdown
     A father of one, Computer Scientist, 21 years in Biodiversity Informatics, flew from Costa Rica to work at Missouri Botanical Garden on International projects!
   orcid: 0000-0003-2863-2491
