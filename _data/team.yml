@@ -2,7 +2,7 @@
 
 - name: María Auxiliadora Mora
   role: Presidenta # Will appear next to name
-  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg # Can be external link
   description: > # Can be Markdown
     Costa Rican Institute of Technology (ITCR) | TEC · Prof. Escuela de Ingeniería en Computación.
   orcid: 0000-0000-0000-0000
@@ -12,7 +12,7 @@
 
 - name: Manuel Vargas
   role: Secretario
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/Manuel.jpg
   description: >
     Informático especializado en sistemas de información geográfica e informática de la biodiversidad. 
   orcid: 0000-0003-2863-2491
@@ -22,7 +22,7 @@
 
 - name: Jose Cuadra
   role: Tesorero
-  image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
   description: >
     Programador.
   orcid: 0000-0003-2863-2491
