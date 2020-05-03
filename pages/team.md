@@ -1,7 +1,7 @@
 ---
 layout: team
 title: ¿Quiénes somos?
-description: Miembros del equipo
+description: Miembros del equipo CRBio
 background: /assets/img/CR-Bio-Logo-480.jpg
 permalink: /team/
 ---
