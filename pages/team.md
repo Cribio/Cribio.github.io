@@ -2,7 +2,7 @@
 layout: team
 title: ¿Quiénes somos?
 description: Miembros del equipo
-background: /assets/img/CR-Bio-Logo-720.jpg
+background: /assets/img/CR-Bio-Logo-480.jpg
 permalink: /team/
 ---
 
