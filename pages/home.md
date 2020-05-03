@@ -2,7 +2,7 @@
 layout: home
 title: CRBio
 description: Centro de Investigación en Informática de la Biodiversidad
-background: /assets/img/100044.jpg
+background: /assets/img/100044Web.jpg
 permalink: /
 ---
 
