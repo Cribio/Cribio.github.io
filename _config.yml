@@ -6,8 +6,8 @@ author: Peter Desmet                    # Used for copyright statement in footer
 # baseurl: "/petridish"
 
 # SOCIAL PROFILES
-email: crbio@crbio.org           # Social icon in footer
-twitter_username: crbiodiv           # Social icon in footer
+email: crbio@crbio.org             # Social icon in footer
+twitter_username: crbiodiv         # Social icon in footer
 github_username: cribio            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
