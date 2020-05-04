@@ -2,7 +2,7 @@
 layout: team
 title: ¿Quiénes somos?
 description: Miembros del equipo CRBio
-background: /assets/img/CR-Bio-Logo-480.jpg
+background: https://pbs.twimg.com/profile_banners/1219830701849182209/1579667305/1500x500
 permalink: /team/
 ---
 
