@@ -4,7 +4,7 @@ date: 2018-05-14 17:27:15 +0200
 categories: [" Socios "]
 ---
 <script type="text/javascript"> 
-  document.write( new Date('2018-06-14T15:27:15Z').toString() ); 
+  document.write( new Date('2018-06-14T15:27:15Z').toDateString() ); 
 </script>
 
 
