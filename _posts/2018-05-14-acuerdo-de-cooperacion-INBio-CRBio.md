@@ -4,7 +4,10 @@ date: 2018-05-14 17:27:15 +0200
 categories: [" Socios "]
 ---
 <script type="text/javascript"> 
-  document.write( new Date('2018-06-14T15:27:15Z').toDateString() ); 
+  d = new Date('2018-06-14T15:27:15Z');
+  document.write( d.toDateString() );
+  document.write( d.getHours() + ":" + d.getMinutes() );
+  document.write( "UTC"+(d.getTimezoneOffset()/60) );
 </script>
 
 
