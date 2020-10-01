@@ -1,7 +1,7 @@
 ---
 title: Firma del Acuerdo de Cooperación entre INBio y CRBio
 date: 2018-05-14 17:27:15 +0200
-description: Signature of Cooperation Agreement between INBio and CRBio in San José, Costa Rica, 14 May 2019.
+description: Signing of the Cooperation Agreement between INBio and CRBio in San José, Costa Rica, 14 May 2019.
 background: "assets/img/Convenio INBio - CRBio.JPG"
 author: [Ronny Hernández]
 categories: [" Socios "]
