@@ -30,7 +30,7 @@ function UTCLocal(hileraFechaHora) {
   return "UTC"+desfase;
 }
 
-function DiaLocal(hileraFechaHora, lineas, fomatoDia, formatoMes, localidad) {
+function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
   // The function convert the parameter ISO Date string to the day string.
   // lineas indicates if the result is more than 1 line (No:0, Yes:1)
   var fecha = new Date(hileraFechaHora);
