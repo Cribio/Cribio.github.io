@@ -17,7 +17,7 @@ categories: [" Socios "]
   if (desfase > 0) {
      desfase = "+" + desfase.toString();
   } else {
-     desfase = "-" + desfase.toString();
+     desfase = desfase.toString();
   }
 </script>
 <script type="text/javascript"> document.write( fecha.toDateString() );  </script><br>
