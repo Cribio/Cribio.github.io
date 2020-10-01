@@ -30,12 +30,12 @@ function UTCLocal(hileraFechaHora) {
   return "UTC"+desfase;
 }
 
-function DiaLocal(hileraFechaHora, lineas, fomatWeekDay, formatMonth, locale) {
+function DiaLocal(hileraFechaHora, lineas, fomatoDia, formatoMes, localidad) {
   // The function convert the parameter ISO Date string to the day string.
   // lineas indicates if the result is more than 1 line (No:0, Yes:1)
   var fecha = new Date(hileraFechaHora);
-  var nombreDia = fecha.toLocaleDateString(locale, { weekday: formatWeekDay });
-  var nombreMes = fecha.toLocaleDateString(locale, { month: formatMonth });
+  var nombreDia = fecha.toLocaleDateString(localidad, { weekday: formatoDia });
+  var nombreMes = fecha.toLocaleDateString(localidad, { month: formatoMes });
   if (lineas = 1) {
     nombreDia = nombreDia + "<br>";
   } else {
