@@ -4,7 +4,7 @@ date: 2018-05-14 17:27:15 +0200
 categories: [" Socios "]
 ---
 <script type="text/javascript"> 
-function UTCLocalTimeZone(hileraFechaHora, linebreak = 0) {
+function UTCLocalTimeZone(hileraFechaHora, linebreak) {
   var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
   var desfase = fecha.getTimezoneOffset();
   var signo = "+";
@@ -16,7 +16,7 @@ function UTCLocalTimeZone(hileraFechaHora, linebreak = 0) {
   
   if (horas < 9) {horas = "0" + horas};
   if (minutos < 9) {minutos = "0"+ minutos};
-  if (linebreak = 1) {linebreak = "<br>"} else {linebreak = ""};
+  if (linebreak = 1) {linebreak = "<br>"} else {linebreak = " "};
   return ("UTC" + linebreak + signo) + (horas + ":" + minutos);
 }
 </script>
