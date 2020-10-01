@@ -16,7 +16,7 @@ function UTCLocalTimeZone(hileraFechaHora, addlinebreak) {
   
   if (horas < 9) {horas = "0" + horas};
   if (minutos < 9) {minutos = "0"+ minutos};
-  if (addlinebreak = 1) { linebreak = "<br>"; } else { linebreak = " "; };
+  if (addlinebreak == 1) { linebreak = "<br>"; } else { linebreak = " "; };
   return ("UTC" + linebreak + signo) + (horas + ":" + minutos);
 }
 </script>
