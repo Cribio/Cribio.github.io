@@ -20,7 +20,7 @@ function horaLocal(hileraFechaHora) {
 }
 
 function UTCLocal(hileraFechaHora) {
-  var fecha = new Date(hileraHora);    // The function convert the parameter ISO Date string to the UTC shift.
+  var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
   var desfase = (0-fecha.getTimezoneOffset())/60;
   if (desfase > 0) {
      desfase = "+" + desfase.toString();
