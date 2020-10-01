@@ -6,7 +6,7 @@ categories: [" Socios "]
 <script type="text/javascript"> 
   fecha = new Date('2018-06-14T15:27:15Z');
   horas = fecha.getHours();
-  minutos = fecha.getMinutes()
+  minutos = fecha.getMinutes();
   desfase = fecha.getTimezoneOffset()/60;
   if (horas < 10) {
      horas = "0" + horas.toString();
@@ -16,7 +16,7 @@ categories: [" Socios "]
   }
   if (desfase > 0) {
      desfase = "+" + desfase.toString();
-  else {
+  } else {
      desfase = desfase.toString();
   }
 </script>
