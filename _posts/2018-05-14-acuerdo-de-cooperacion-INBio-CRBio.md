@@ -4,7 +4,7 @@ date: 2018-05-14 17:27:15 +0200
 categories: [" Socios "]
 ---
 <script type="text/javascript"> 
-function UTCLocalTimeZone(hileraFechaHora) {
+function UTCLocalTimeZone(hileraFechaHora, linebreak = 0) {
   var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
   var desfase = fecha.getTimezoneOffset();
   var signo = "+";
@@ -16,13 +16,14 @@ function UTCLocalTimeZone(hileraFechaHora) {
   
   if (horas < 9) {horas = "0" + horas};
   if (minutos < 9) {minutos = "0"+ minutos};
-  return ("UTC" + signo) + (horas + ":" + minutos);
+  if (linebreak = 1) {linebreak = "<br>"} else {linebreak = ""};
+  return ("UTC" + linebreak + signo) + (horas + ":" + minutos);
 }
 </script>
 El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall García, Director General del INBio, firmaron un Convenio General de Cooperación mutua para el desarrollo de proyectos que contribuyan al <b>cumplimiento</b> de los objetivos de ambos.
 
 <script type="text/javascript">
-  document.write( UTCLocalTimeZone('2020-09-21T08:00:00Z') );
+  document.write( UTCLocalTimeZone('2020-09-21T08:00:00Z', 1) );
 </script>
 
 Los representantes de ambas instituciones acordaron unir esfuerzos, recursos y conocimientos científicos y técnicos para desarrollar acciones conjuntas de investigación, desarrollo de tecnología informática, fortalecimiento de capacidades y publicación libre y gratuita de información sobre biodiversidad con la finalidad de contribuir a la conservación, acrecentar el conocimiento y promover la utilización sostenible de la biodiversidad, según las leyes aplicables.
