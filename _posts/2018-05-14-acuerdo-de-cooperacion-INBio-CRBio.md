@@ -7,8 +7,7 @@ categories: [" Socios "]
 <script type="text/javascript"> 
 
 function horaLocal(hileraFechaHora) {
-  // The function convert the parameter ISO Date string to the local hour HH:MM.
-  var fecha = new Date(hileraFechaHora);
+  var fecha = new Date(hileraFechaHora);   // The function convert the parameter ISO Date string to the local hour HH:MM.
   var horas = fecha.getHours();
   var minutos = fecha.getMinutes();
   
@@ -49,6 +48,7 @@ function DiaLocal(hileraFechaHora, lineas, fomatWeekDay = 'short', formatMonth =
   }
   return nombreDia;
 }
+
 </script>
 
 
@@ -56,7 +56,7 @@ function DiaLocal(hileraFechaHora, lineas, fomatWeekDay = 'short', formatMonth =
   var hileraDiaYHora = '2018-06-14T15:27:15Z';
   document.write( horaLocal(hileraDiaYHora) );
   document.write( UTCLocal(hileraDiaYHora) );
-  document.write( DiaLocal(hileraDiaYHora, 1);
+  document.write( DiaLocal(hileraDiaYHora, 1, 'short', 'short', 'en-US') );
 </script><br>
 
 
