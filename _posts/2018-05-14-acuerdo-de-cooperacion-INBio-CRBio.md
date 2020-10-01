@@ -50,8 +50,8 @@ El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall 
 
 <script type="text/javascript">
   var hileraDiaYHora = '2018-06-14T15:27:15Z';
-  document.write( horaLocal(hileraDiaYHora) );<br>
-  document.write( UTCLocal(hileraDiaYHora) );<br>
+  document.write( horaLocal(hileraDiaYHora)+'<br>' );
+  document.write( UTCLocal(hileraDiaYHora)+ '<br>' );
   document.write( DiaLocal(hileraDiaYHora, 1, 'short', 'short', 'en-US') );
   
 </script><br>
