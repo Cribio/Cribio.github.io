@@ -12,7 +12,10 @@ function UTCLocalTimeZone(hileraFechaHora) {
   if (desfase < 0) { signo = "+"; } else { signo = "-"; }
   desfase = Math.abs(desfase);
   var horas = Math.trunc(desfase/60);
-  var minutos = Math.trunc((desfase - (horas * 60))/60);
+  var minutos = Math.trunc(desfase - (horas * 60));
+  
+  if (horas < 9) {horas = "0" + horas};
+  if (minutos < 9) {minutos = "0"+ minutos};
   return "UTC" + signo + horas + ":" + minutos;
 }
 </script>
