@@ -13,7 +13,7 @@ function UTCLocalTimeZone(hileraFechaHora) {
   desfase = Math.abs(desfase);
   var horas = Math.trunc(desfase/60);
   var minutos = Math.trunc((desfase - horas)/60);
-  return "UTC" + signo + horas + ":" + minutes;
+  return "UTC" + signo + horas + ":" + minutos;
 }
 </script>
 El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall García, Director General del INBio, firmaron un Convenio General de Cooperación mutua para el desarrollo de proyectos que contribuyan al <b>cumplimiento</b> de los objetivos de ambos.
