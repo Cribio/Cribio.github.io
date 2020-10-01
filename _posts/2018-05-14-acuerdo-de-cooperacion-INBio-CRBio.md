@@ -18,6 +18,18 @@ function horaLocal(hileraFechaHora) {
   }
   return horas + ":" + minutos;
 }
+
+function UTCLocal(hileraFechaHora) {
+  var fecha = new Date(hileraHora);    // The function convert the parameter ISO Date string to the UTC shift.
+  var desfase = (0-fecha.getTimezoneOffset())/60;
+  if (desfase > 0) {
+     desfase = "+" + desfase.toString();
+  } else {
+     desfase = desfase.toString();
+  }
+  return "UTC"+desfase;
+}
+
 </script>
 
 El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall García, Director General del INBio, firmaron un Convenio General de Cooperación mutua para el desarrollo de proyectos que contribuyan al <b>cumplimiento</b> de los objetivos de ambos.
@@ -25,6 +37,7 @@ El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall 
 <script type="text/javascript">
   var hileraDiaYHora = '2018-06-14T15:27:15Z';
   document.write( horaLocal(hileraDiaYHora) );
+  document.write( UTCLocal(hileraDiaYHora) );
 </script><br>
 
 Los representantes de ambas instituciones acordaron unir esfuerzos, recursos y conocimientos científicos y técnicos para desarrollar acciones conjuntas de investigación, desarrollo de tecnología informática, fortalecimiento de capacidades y publicación libre y gratuita de información sobre biodiversidad con la finalidad de contribuir a la conservación, acrecentar el conocimiento y promover la utilización sostenible de la biodiversidad, según las leyes aplicables.
