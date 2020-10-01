@@ -17,7 +17,7 @@ function horaLocal(hileraFechaHora) {
      minutos = "0" + minutos.toString();
   }
   return horas + ":" + minutos;
-};
+}
 
 function UTCLocal(hileraFechaHora) {
   var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
@@ -28,15 +28,14 @@ function UTCLocal(hileraFechaHora) {
      desfase = desfase.toString();
   }
   return "UTC"+desfase;
-};
+}
 
-function DiaLocal(hileraFechaHora, lineas, fomatWeekDay = 'short', formatMonth = 'short', locale = 'en-US') {
+function DiaLocal(hileraFechaHora, lineas, fomatWeekDay, formatMonth, locale) {
   // The function convert the parameter ISO Date string to the day string.
   // lineas indicates if the result is more than 1 line (No:0, Yes:1)
-
   var fecha = new Date(hileraFechaHora);
-  var nombreDia = fecha.date.toLocaleDateString(locale, { weekday: formatWeekDay });
-  var nombreMes = fecha.date.toLocaleDateString(locale, { month: formatMonth });
+  var nombreDia = fecha.toLocaleDateString(locale, { weekday: formatWeekDay });
+  var nombreMes = fecha.toLocaleDateString(locale, { month: formatMonth });
   if (lineas = 1) {
     nombreDia = nombreDia + "<br>";
   } else {
