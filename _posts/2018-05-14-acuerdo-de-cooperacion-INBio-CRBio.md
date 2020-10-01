@@ -6,7 +6,7 @@ categories: [" Socios "]
 <script type="text/javascript"> 
 function UTCLocalTimeZone(hileraFechaHora) {
   var fecha = new Date(hileraFechaHora);    // The function convert the parameter ISO Date string to the UTC shift.
-  var desfase = (0-fecha.getTimezoneOffset());
+  var desfase = fecha.getTimezoneOffset();
   var signo = "+";
   
   if (desfase < 0) { signo = "+"; } else { signo = "-"; }
@@ -16,7 +16,7 @@ function UTCLocalTimeZone(hileraFechaHora) {
   
   if (horas < 9) {horas = "0" + horas};
   if (minutos < 9) {minutos = "0"+ minutos};
-  return "UTC" + signo + horas + ":" + minutos;
+  return ("UTC" + signo) + (horas + ":" + minutos);
 }
 </script>
 El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall García, Director General del INBio, firmaron un Convenio General de Cooperación mutua para el desarrollo de proyectos que contribuyan al <b>cumplimiento</b> de los objetivos de ambos.
