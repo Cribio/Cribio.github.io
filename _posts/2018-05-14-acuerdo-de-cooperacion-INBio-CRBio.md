@@ -30,14 +30,32 @@ function UTCLocal(hileraFechaHora) {
   return "UTC"+desfase;
 }
 
+function DiaLocal(hileraFechaHora, lineas, fomatWeekDay = 'short', formatMonth = 'short', locale = 'en-US') {
+  // The function convert the parameter ISO Date string to the day string.
+  // lineas indicates if the result is more than 1 line (No:0, Yes:1)
+
+  var fecha = new Date(hileraFechaHora);
+  var nombreDia = fecha.date.toLocaleDateString(locale, { weekday: formatWeekDay });
+  var nombreMes = fecha.date.toLocaleDateString(locale, { month: formatMonth });
+  if (lineas = 1) {
+    nombreDia = nombreDia + "<br>";
+  } else {
+    nombreDia = nombreDia + " ";
+  }
+  nombreDia = nombreDia + fecha.getDate() + " " + nombreMes;
+  }
+  return nombreDia;
+}
 </script>
 
 El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall García, Director General del INBio, firmaron un Convenio General de Cooperación mutua para el desarrollo de proyectos que contribuyan al <b>cumplimiento</b> de los objetivos de ambos.
 
 <script type="text/javascript">
   var hileraDiaYHora = '2018-06-14T15:27:15Z';
-  document.write( horaLocal(hileraDiaYHora) );
-  document.write( UTCLocal(hileraDiaYHora) );
+  document.write( horaLocal(hileraDiaYHora) );<br>
+  document.write( UTCLocal(hileraDiaYHora) );<br>
+  document.write( DiaLocal(hileraDiaYHora, 1, 'short', 'short', 'en-US') );
+  
 </script><br>
 
 Los representantes de ambas instituciones acordaron unir esfuerzos, recursos y conocimientos científicos y técnicos para desarrollar acciones conjuntas de investigación, desarrollo de tecnología informática, fortalecimiento de capacidades y publicación libre y gratuita de información sobre biodiversidad con la finalidad de contribuir a la conservación, acrecentar el conocimiento y promover la utilización sostenible de la biodiversidad, según las leyes aplicables.
