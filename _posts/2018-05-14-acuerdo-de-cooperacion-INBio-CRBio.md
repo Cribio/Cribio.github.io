@@ -53,6 +53,22 @@ function horaLocal(hileraFechaHora, addDay) {
   }
   return horas + ":" + minutos + shifted;
 }
+
+function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
+  // The function convert the parameter ISO Date string to the day string.
+  // lineas indicates if the result is more than 1 line (No:0, Yes:1)
+  var fecha = new Date(hileraFechaHora);
+  var nombreDia = fecha.toLocaleDateString(localidad, { weekday: formatoDia });
+  var nombreMes = fecha.toLocaleDateString(localidad, { month: formatoMes });
+  if (lineas = 1) {
+    nombreDia = nombreDia + "<br>";
+  } else {
+    nombreDia = nombreDia + " ";
+  }
+  nombreDia = nombreDia + fecha.getDate() + " " + nombreMes;
+  return nombreDia;
+}
+
 </script>
 
 
@@ -65,7 +81,12 @@ El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall 
 
 <span style="font-size:75%"><strong>
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Attention%3a%20Local%20Time&iso=20200922T0800&p1=1440&ah=2&am=" target="_blank">
-    Local Time
+    Local Time: 
+      <script type="text/javascript">
+        let hileraFechaHora = "2018-10-19T23:00:00Z"
+        document.write( DiaLocal(hileraFechaHora, 0, 'short', 'short', 'en-US')+" "+ horaLocal(hileraFechaHora, 0));
+      </script>
+      
   </a></strong></span>
 
 Los representantes de ambas instituciones acordaron unir esfuerzos, recursos y conocimientos científicos y técnicos para desarrollar acciones conjuntas de investigación, desarrollo de tecnología informática, fortalecimiento de capacidades y publicación libre y gratuita de información sobre biodiversidad con la finalidad de contribuir a la conservación, acrecentar el conocimiento y promover la utilización sostenible de la biodiversidad, según las leyes aplicables.
