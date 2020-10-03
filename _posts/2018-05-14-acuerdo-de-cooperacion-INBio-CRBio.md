@@ -40,7 +40,7 @@ function horaLocal(hileraFechaHora, addDay) {
   }
   
   if (addDay) {
-    if (fecha.getDate() > hileraFechaHora.substr(9,2)).valueOf() {
+    if (fecha.getDate() > hileraFechaHora.substr(9,2)) {
       shifted = "<br>"+"+1 day"
     } else {
       shifted = "<br>"+"-1 day"
