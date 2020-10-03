@@ -60,7 +60,7 @@ function DiaLocal(hileraFechaHora, lineas, formatoDia, formatoMes, localidad) {
   var fecha = new Date(hileraFechaHora);
   var nombreDia = fecha.toLocaleDateString(localidad, { weekday: formatoDia });
   var nombreMes = fecha.toLocaleDateString(localidad, { month: formatoMes });
-  if (lineas = 1) {
+  if (lineas == 1) {
     nombreDia = nombreDia + "<br>";
   } else {
     nombreDia = nombreDia + " ";
