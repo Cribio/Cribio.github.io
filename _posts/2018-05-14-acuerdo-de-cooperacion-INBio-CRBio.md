@@ -44,10 +44,10 @@ function horaLocal(hileraFechaHora, addDay) {
   if (addDay) {
     shiftDays = fecha.getDate() - parseInt(hileraFechaHora.substr(hileraFechaHora.search("T")-2,2),10);
     if (shiftDays > 0) {
-      shifted = "<br>"+"-1 day";
+      shifted = "<br>"+"+1 day";
     } else {
       if (shiftDays < 0) {
-        shifted = "<br>"+"+1 day";
+        shifted = "<br>"+"-1 day";
       }
     }
   }
