@@ -57,7 +57,7 @@ function horaLocal(hileraFechaHora, addDay) {
 
 
 <script type="text/javascript">
-  document.write( UTCLocalTimeZone('2018-06-14T08:00:00Z', -1) );
+  document.write( UTCLocalTimeZone('2018-06-14T03:00:00Z', -1) );
 </script>
 
 El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall García, Director General del INBio, firmaron un Convenio General de Cooperación mutua para el desarrollo de proyectos que contribuyan al <b>cumplimiento</b> de los objetivos de ambos.
