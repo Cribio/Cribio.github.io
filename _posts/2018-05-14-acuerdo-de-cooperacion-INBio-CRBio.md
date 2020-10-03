@@ -63,11 +63,15 @@ function horaLocal(hileraFechaHora, addDay) {
 
 El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall García, Director General del INBio, firmaron un Convenio General de Cooperación mutua para el desarrollo de proyectos que contribuyan al <b>cumplimiento</b> de los objetivos de ambos.
 
-<p style="font-size:50%">
-<script type="text/javascript">
-  document.write( horaLocal('2020-10-19T23:00:00Z', showDay) );
-</script>
-</p>
+<span style="font-size:14px"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+ITG07%3a%20How+did+it+die?&iso=20200922T0800&p1=1440&ah=2&am=" target="_blank">Local Time</a></span>
+
+<span style="font-size:75%">
+<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+This%20is%20it%3a%20How+do+you+like+it?&iso=20201019T2300&p1=1440&ah=2&am=" target="_blank">
+  <script type="text/javascript">
+    document.write( horaLocal('2020-10-19T23:00:00Z', showDay) );
+  </script>
+</a>
+</span>
 
 Los representantes de ambas instituciones acordaron unir esfuerzos, recursos y conocimientos científicos y técnicos para desarrollar acciones conjuntas de investigación, desarrollo de tecnología informática, fortalecimiento de capacidades y publicación libre y gratuita de información sobre biodiversidad con la finalidad de contribuir a la conservación, acrecentar el conocimiento y promover la utilización sostenible de la biodiversidad, según las leyes aplicables.
 
