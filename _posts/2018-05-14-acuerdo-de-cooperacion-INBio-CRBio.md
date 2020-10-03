@@ -39,13 +39,14 @@ function horaLocal(hileraFechaHora, addDay) {
      minutos = "0" + minutos.toString();
   }
   
+  shiftDays = 0;
   shifted = "";
   if (addDay) {
-    shift = fecha.getDate() - hileraFechaHora.substr(9,2);
-    if (shift > 0) {
+    shiftDays = fecha.getDate() - hileraFechaHora.substr(9,2);
+    if (shiftDays > 0) {
       shifted = "<br>"+"-1 day";
     } else {
-      if (shift < 0) {
+      if (shiftDays < 0) {
         shifted = "<br>"+"+1 day";
       }
     }
