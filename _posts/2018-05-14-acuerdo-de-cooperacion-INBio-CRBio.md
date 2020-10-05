@@ -92,7 +92,7 @@ El 14 de Junio del 2018, María Auxiliadora Mora, Presidenta de CRBio y Randall 
     <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=TDWG+2020+-+Attention%3a%20Local%20Time&iso=20200922T0800&p1=1440&ah=2&am=" target="_blank">
     Local Time: 
       <script type="text/javascript">
-        let hileraFechaHora = "2018-10-19T23:00:00Z"
+        let hileraFechaHora = "2018-10-19T23:00:00Z";
         document.write( DiaLocal(hileraFechaHora, 0, 'short', 'short', 'en-US')+" "+ horaLocal(hileraFechaHora, 0));
       </script>
       
