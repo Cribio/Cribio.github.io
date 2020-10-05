@@ -7,7 +7,6 @@ author: [Ronny Hernández]
 categories: [" Socios "]
 ---
 
-
 <script type="text/javascript"> 
 
 function horaLocal(hileraFechaHora, addDay) {
