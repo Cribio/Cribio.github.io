@@ -181,9 +181,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T01:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -204,9 +202,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T01:30:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 </tr>
 <tr>
@@ -338,9 +334,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T07:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -385,9 +379,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T08:30:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 </tr>
 <tr>
@@ -463,9 +455,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T11:30:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 </tr>
 <tr>
@@ -526,9 +516,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-20T14:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 <td style="background-color: #C3EEAC;" rowspan="4"><p><a href="../session-list/#sym09%20technical%20and%20standards%20implications%20in%20data%20liberation%20and%20semantic%20publishing%20for%20biodiversity">SYM09: Technical standards implications in data liberation and semantic publishing for biodiversity</a></p>
   <span style="font-size:75%"><strong>
@@ -536,9 +524,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-21T14:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 <td style="background-color: #C3EEAC;" rowspan="3"><p><a href="../session-list/#sym01%20standards%20alignment:%20which%20and%20how?">SYM01: Standards alignment: which and how?</a></p>
   <span style="font-size:75%"><strong>
@@ -546,9 +532,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-22T14:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 <td style="background-color: #ECEEAC;" rowspan="3"><p><a href="../session-list/#pd03%20enabling%20digital%20specimen%20and%20extended%20specimen%20concepts%20in%20current%20tools%20and%20services">PD03: Enabling digital specimen and extended specimen concepts in current tools and services</a></p>
   <span style="font-size:75%"><strong>
@@ -556,9 +540,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-23T14:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-20T01:00:00Z", 0) ); --->
-      </script>
-    </a></strong>
-  </span>
+      </script></a></strong></span>
 </td>
 </tr>
 <tr>
@@ -582,8 +564,7 @@ The times posted for events below (in <script type="text/javascript"> document.w
       <script type="text/javascript">
         document.write( DiaLocal("2020-10-19T15:00:00Z", 0, "short", "short", "en-US") );
 <!---        document.write(" "); document.write( horaLocal("2020-10-19T15:00:00Z", 0) ); --->
-      </script>
-    </a></strong></span>
+      </script></a></strong></span>
   </td>
 </tr>
 <tr>
