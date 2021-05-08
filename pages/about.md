@@ -6,21 +6,8 @@ background: /assets/img/100099Web.jpg
 permalink: /about/
 ---
 
-## Objetivos
+CRBio fue fundado en 2018 por un grupo de profesionales con vasta experiencia en Informática de la Biodiversidad (BI) que trabajaron durante muchos años en instituciones relacionadas con el tema de BI, como, el Instituto Nacional de Biodiversidad de Costa Rica (INBio), la Plataforma Global de Información sobre Biodiversidad (GBIF), el Jardín Botánico de Missouri, EEUU. y The Nature Conservancy (TNC). Los miembros de CRBio tienen también una destacada trayectoria en Ciencias de la Computación, enseñando, como consultores y desarrolladores de sistemas y bases de datos nacionales, regionales e internacionales con información taxonómica, ambiental, de conservación y geográfica.
 
-El fin primordial de CRBio es facilitar y promover el acceso libre y abierto a datos e información sobre biodiversidad mediante tecnologías de información y comunicación para apoyar la investigación, la educación, la toma de decisiones y la conservación del medio ambiente.
-
-Los objetivos de CRBio son:
-
-<ol type="a">
-  <li>Promover la publicación y la integración de datos e información sobre biodiversidad mediante estándares globalmente aceptados.</li>
-  <li>Generar productos de datos e información sobre biodiversidad orientados a satisfacer las necesidades de los diferentes públicos meta (ej. científicos, educadores, tomadores de decisiones, estudiantes y público en general).</li>
-  <li>Estimar la calidad y apoyar procesos de mejora de los datos e información sobre biodiversidad.</li>
-  <li>Adecuar y desarrollar herramientas informáticas orientadas a la digitalización, curación, integración, visualización y análisis de datos e información sobre biodiversidad.</li>
-  <li>Desarrollar capacidades en informática de la biodiversidad en usuarios y proveedores de datos e información.</li>
-  <li>Promover la participación ciudadana en los procesos de captura, procesamiento y transferencia de datos e información de biodiversidad.</li>
-  <li>Participar en iniciativas globales y regionales de informática de la biodiversidad.</li>
-</ol>
 &nbsp;  
 &nbsp;  
 
