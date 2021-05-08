@@ -8,11 +8,13 @@ permalink: /about/
 
 CRBio fue fundado en 2018 por un grupo de profesionales con vasta experiencia en Informática de la Biodiversidad (BI) que trabajaron durante muchos años en instituciones relacionadas con el tema de BI, como, el Instituto Nacional de Biodiversidad de Costa Rica (INBio), la Plataforma Global de Información sobre Biodiversidad (GBIF), el Jardín Botánico de Missouri, EEUU. y The Nature Conservancy (TNC). Los miembros de CRBio tienen también una destacada trayectoria en Ciencias de la Computación, enseñando, como consultores y desarrolladores de sistemas y bases de datos nacionales, regionales e internacionales con información taxonómica, ambiental, de conservación y geográfica.
 
+CRBio cuenta en la actualidad con 12 miembros permanentes y su directorio está presidido por María Mora como presidenta, asistida por William Ulate como vicepresidente, Manuel Vargas como secretario y José Cuadra como tesorero.  El Centro de Investigaciones en Informática de la Biodiversidad (CRBio) se encuentra inscrito en el Registro de Personas Jurídicas de Costa Rica, siguiendo la Ley N ° 218 del 08 de agosto de 1939 y sus reformas, tomo 2018 inscripción 101262 con adicional en volumen 2018 inscripción 197019.  
+
 &nbsp;  
 &nbsp;  
 
 ![CRBio logo!](/assets/img/CR-Bio-Logo-75.jpg "CRBio logo")
-## El Logo  
+### El Logo  
 
 Nuestro logo se compone de un colibrí (*Amazilia boucardi*) amenazado, endémico de Costa Rica, pues nuestro interés es apoyar la conservación de la biodiversidad. El mapa de Costa Rica en el logo indica nuestro origen pero así como el colibrí difumina el mapa, nuestro enfoque ha aumentado del plano nacional a uno regional e internacional.
 
