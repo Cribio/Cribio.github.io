@@ -1,4 +1,4 @@
-# Links listed below will be included in your site's navbar (navigation at the top)
+c# Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
@@ -6,7 +6,7 @@
   href: /about/
 - text: ¿Quienes somos?
   href: /team/
-- text: ¿Qué hacemos?
+- text: Credenciales
   menu:  # Dropdown menu (one level deep only)
   - text: Desarrollo e implementación de tecnología
     href: /developments/
