@@ -7,23 +7,32 @@ permalink: /publications/
 ---
 
 ### Publicaciones
-Estas son las publicaciones y presentaciones de CRBio:
-
-**Vargas M.**, **Mora Cross M.**, **Cuadra J.**, **Ulate Rodríguez W.** Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core. Biodiversity Information Science and Standards 3: e35474, Jun. 2019. DOI: https://doi.org/10.3897/biss.3.35474
-
-**Manuel Vargas**, **María Mora**, **William Ulate**, **José Cuadra**, “The Living Atlases Community in Action: Sharing Species Pages through the Atlas of Living Costa Rica” Biodiversity Information Science and Standards 2: e25990, Aug. 2018. DOI: https://doi.org/10.3897/biss.2.25990
-
-
-### Otras publicaciones
-Estas son algunas de las publicaciones y presentaciones en las que han colaborado los miembros de CRBio:
-
-Borsch, T., Berendsohn, W., Dalcin, E., Delmas, M., Demissew, S., Elliott, A., Fritsch, P., Fuchs, A., Geltman, D., Güner, A., Haevermans, T., Knapp, S., le Roux, M.M., Loizeau, P.‐A., Miller, C., Miller, J., Miller, J.T., Palese, R., Paton, A., Parnell, J., Pendry, C., Qin, H.‐N., Sosa, V., Sosef, M., von Raab‐Straube, E., Ranwashe, F., Raz, L., Salimov, R., Smets, E., Thiers, B., Thomas, W., Tulig, M., **Ulate, W.**, Ung, V., Watson, M., Jackson, P.W. and Zamora, N. World Flora Online: Placing taxonomists at the heart of a definitive and comprehensive global resource on the world's plants. TAXON, 69: 1311-1341, Nov. 2020. https://doi.org/10.1002/tax.12373
+Estas son algunas de las publicaciones y presentaciones de los miembros de CRBio:
 
 **Ulate W.**, Mora MM. Assessment of Annotation Needs of Botanists. Biodiversity Information Science and Standards 4: e59308, Oct. 2020. DOI: https://doi.org/10.3897/biss.4.59308
 
-Woodburn M, Paul DL, Addink W, Baskauf SJ, Blum S, Chapman C, Grant S, Groom Q, Jones J, Petersen M, Raes N, Smith D, Tilley L, Trekels M, Trizna M, **Ulate W**, Vincent S, Walls R, Webbink K, Zermoglio P Unity in Variety: Developing a collection description standard by consensus. Biodiversity Information Science and Standards 4: e59233. Oct. 2020 https://doi.org/10.3897/biss.4.59233
+**Vargas M.**, **Mora Cross M.**, **Cuadra J.**, **Ulate Rodríguez W.** Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core. Biodiversity Information Science and Standards 3: e35474, Jun. 2019. DOI: https://doi.org/10.3897/biss.3.35474
 
 **Ulate, W.** Lessons Learned from Managing Millions of Records to Create the World Flora Online. Biodiversity Information Science and Standards 3: e35245, Jun. 2019. DOI: https://doi.org/10.3897/biss.3.35245
+
+**Manuel Vargas**, **María Mora**, **William Ulate**, **José Cuadra**, “The Living Atlases Community in Action: Sharing Species Pages through the Atlas of Living Costa Rica” Biodiversity Information Science and Standards 2: e25990, Aug. 2018. DOI: https://doi.org/10.3897/biss.2.25990
+
+**William Ulate**. Unlocking biodiversity knowledge through Text Mining and Crowdsourced Tagging of Legacy Literature.  Symposium S08. Expanding the Usefulness of Literature in Sustaining Biodiversity at TDWG 2014 Annual Conference, Oct. 2014. https://mbgocs.mobot.org/index.php/tdwg/2014/paper/view/557 
+
+**William Ulate**. Expanding the Biodiversity Heritage Library.  Symposium: Crafting the future of a Global Biodiversity Heritage Library for diverse community’s needs at TDWG 2013 Annual Conference, Oct. 2013. https://mbgocs.mobot.org/index.php/tdwg/2013/paper/view/455 
+
+**Jose Cuadra**. Enseñanzas adquiridas en el desarrollo de un portal para integrar datos utilizando esquemas de intercambio de datos.
+XXXIII Conferencia Latinoamericana en Informática, San José de Costa Rica, 9-12 de octubre, 2007
+http://clei.org/clei2007/proceedings/documentos/posters/inbi/inbi_26.pdf
+
+&nbsp;  
+
+### Otras publicaciones
+Estas son algunas de las publicaciones y presentaciones en las que han colaborado los miembros de CRBio a lo largo de su carrera profesional:
+
+Borsch, T., Berendsohn, W., Dalcin, E., Delmas, M., Demissew, S., Elliott, A., Fritsch, P., Fuchs, A., Geltman, D., Güner, A., Haevermans, T., Knapp, S., le Roux, M.M., Loizeau, P.‐A., Miller, C., Miller, J., Miller, J.T., Palese, R., Paton, A., Parnell, J., Pendry, C., Qin, H.‐N., Sosa, V., Sosef, M., von Raab‐Straube, E., Ranwashe, F., Raz, L., Salimov, R., Smets, E., Thiers, B., Thomas, W., Tulig, M., **Ulate, W.**, Ung, V., Watson, M., Jackson, P.W. and Zamora, N. World Flora Online: Placing taxonomists at the heart of a definitive and comprehensive global resource on the world's plants. TAXON, 69: 1311-1341, Nov. 2020. https://doi.org/10.1002/tax.12373
+
+Woodburn M, Paul DL, Addink W, Baskauf SJ, Blum S, Chapman C, Grant S, Groom Q, Jones J, Petersen M, Raes N, Smith D, Tilley L, Trekels M, Trizna M, **Ulate W**, Vincent S, Walls R, Webbink K, Zermoglio P Unity in Variety: Developing a collection description standard by consensus. Biodiversity Information Science and Standards 4: e59233. Oct. 2020 https://doi.org/10.3897/biss.4.59233
 
 Berendsohn W., Miller C., **Ulate W.**, Watson M. Caught in the concept jungle: developing a format for data contributions to the World Flora Online. Biodiversity Information Science and Standards 3: e35232, Jun. 2019. DOI:  https://doi.org/10.3897/biss.3.35232
 
@@ -57,11 +66,7 @@ Deborah Paul, Andrea Matsunaga, Miao Chen, Jason Best, Sylvia Orli, **William Ul
 
 Riza Batista-Navarro, Aminul Islam, **William Ulate**, Jennifer Hammock, Axel Soto, Sophia Ananiadou, Evangelos Milios. Enriching the legacy literature with OCR corrections and text-mined semantic metadata, Symposium S05. Access to digitisation tools and methods at TDWG 2014 Annual Conference, Oct. 2014. https://mbgocs.mobot.org/index.php/tdwg/2014/paper/view/588  
 
-**William Ulate**. Unlocking biodiversity knowledge through Text Mining and Crowdsourced Tagging of Legacy Literature.  Symposium S08. Expanding the Usefulness of Literature in Sustaining Biodiversity at TDWG 2014 Annual Conference, Oct. 2014. https://mbgocs.mobot.org/index.php/tdwg/2014/paper/view/557 
-
 Martin Kalfatovic, Carolyn Sheffield, **William Ulate**, Connie Rinaldo, Grace Costantino. Digital Object Identifiers (DOIs) for the Biodiversity Heritage Library.  Poster at TDWG 2014 Annual Conference, Oct. 2014. https://mbgocs.mobot.org/index.php/tdwg/2014/paper/view/565
-
-**William Ulate**. Expanding the Biodiversity Heritage Library.  Symposium: Crafting the future of a Global Biodiversity Heritage Library for diverse community’s needs at TDWG 2013 Annual Conference, Oct. 2013. https://mbgocs.mobot.org/index.php/tdwg/2013/paper/view/455 
 
 Paul, Deborah L.; Heidorn, P. Bryan; Best, Jason; Gilbert, Edward; Neill, Amanda; Nelson, Gil; **Ulate, William**. Help iDigBio reveal hidden data: iDigBio Augmenting OCR working group needs you.  iConference 2013 Workshop. iSchools, Feb. 2013.  http://hdl.handle.net/2142/42502 
 
@@ -70,6 +75,3 @@ Anglin, Robert; Best, Jason; Figueiredo, Renato; Gilbert, Edward; Gnanasambandam
 Trish-Rose Sandler, Constance A. Rinaldo, Keri Thompson, **William Ulate**, Martin Kalfatovic:
 Collaboration and communication tools used by the biodiversity heritage library. In Proceedings of the 12th ACM/IEEE-CS Joint Conference on Digital Libraries. JCDL 2012: pp. 361-362 DOI: https://doi.org/10.1145/2232817.2232891
 
-**Jose Cuadra**. Enseñanzas adquiridas en el desarrollo de un portal para integrar datos utilizando esquemas de intercambio de datos.
-XXXIII Conferencia Latinoamericana en Informática, San José de Costa Rica, 9-12 de octubre, 2007
-http://clei.org/clei2007/proceedings/documentos/posters/inbi/inbi_26.pdf
