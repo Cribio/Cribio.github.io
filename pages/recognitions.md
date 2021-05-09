@@ -5,6 +5,7 @@ description: Reconocimientos de los equipos de los que han sido parte los miembr
 background: /assets/img/100099Web.jpg
 permalink: /recognitions/
 ---
+
 ### Reconocimientos
 A través de los años, los miembros de CRBio han formado parte de diversos exitosos equipos en el área de informática de la biodiversidad:
 
