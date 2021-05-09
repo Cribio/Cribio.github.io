@@ -6,7 +6,7 @@ background: /assets/img/100099Web.jpg
 permalink: /developments/
 ---
 
-Los miembros de equipo de CRBio han desarrollado su experiencia a través de la participación de múltiples proyectos de Informática de la Biodiversidad como los siguientes:
+Los miembros de equipo de CRBio han desarrollado su experiencia a través de la participación de múltiples proyectos en Informática de la Biodiversidad, entre los más destacados están:
 
 - **Desarrollo del Sistema de Información Atta:** Atta es la segunda versión de INBio de un sistema de información multi-taxa completo, eficiente y escalable para apoyar el proceso de información central en la institución. Como tal, Atta facilita los procesos de captura, manejo, generación y difusión de información sobre la biodiversidad costarricense.
 
