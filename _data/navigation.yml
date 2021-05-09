@@ -14,7 +14,7 @@ c# Links listed below will be included in your site's navbar (navigation at the 
     href: /trainings/
   - text: Reconocimientos
     href: /recognitions/
-  - text: Publicaciones y Presentaciones
+  - text: Publicaciones
     href: /publications/
 - text: Proyectos
   menu: # Dropdown menu (one level deep only)
