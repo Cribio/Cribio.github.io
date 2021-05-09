@@ -1,6 +1,6 @@
 ---
 title: Reconocimientos
-description: Reconocimientos de los equipos de los que han sido parte los miembros de CRBio
+description: Reconocimientos de los miembros de CRBio
 # background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
 background: /assets/img/100099Web.jpg
 permalink: /recognitions/
