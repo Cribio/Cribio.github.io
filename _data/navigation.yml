@@ -1,12 +1,12 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+- text: Inicio # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: Acerca de
   href: /about/
 - text: ¿Quienes somos?
   menu:  # Dropdown menu (one level deep only)
-  - text: Equipo 
+  - text: Equipo humano 
     href: /team/
   - text: Publicaciones
     href: /publications/
@@ -16,7 +16,7 @@
   menu:  # Dropdown menu (one level deep only)
   - text: Desarrollos tecnológicos
     href: /developments/
-  - text: Capacitación y Soporte
+  - text: Capacitación y soporte
     href: /training/
   - text: Participación
     href: /involvement/
