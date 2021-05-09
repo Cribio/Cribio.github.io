@@ -7,7 +7,7 @@ permalink: /recognitions/
 ---
 
 ### Reconocimientos
-A través de los años, los miembros de CRBio han formado parte de diversos exitosos equipos en el área de informática de la biodiversidad.  Estos son algunos de los reconocimientos recibidos como parte de esos grupos de trabajo:
+A través de los años, los miembros de CRBio han formado parte de diversos exitosos equipos en el área de la informática de la biodiversidad.  Estos son algunos de los reconocimientos recibidos como parte de esos grupos de trabajo:
 
 - 2003, Premio Tech Museum of Innovation en la categoría de Medio Ambiente (www.techmuseum.org), EE. UU.
 - 2004, Premio de Medio Ambiente Augusto González de Linares, Cantabria, España.
