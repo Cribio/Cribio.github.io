@@ -5,7 +5,17 @@
 - text: Acerca de
   href: /about/
 - text: ¿Quienes somos?
-  href: /team/
+  menu:  # Dropdown menu (one level deep only)
+  - text: Directorio
+    href: /team/
+  - text: Desarrollo e implementación de tecnología
+    href: /there-is-no-page-for-this-permalink/
+  - text: Desarrollo de Capacitación
+    href: /there-is-no-page-for-this-permalink/
+  - text: Reconocimientos
+    href: /there-is-no-page-for-this-permalink/
+  - text: Publicaciones y Presentaciones
+    href: /there-is-no-page-for-this-permalink/
 - text: Proyectos
   menu: # Dropdown menu (one level deep only)
   - text: Page 1
