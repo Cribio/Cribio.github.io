@@ -5,17 +5,21 @@
 - text: Acerca de
   href: /about/
 - text: ¿Quienes somos?
-  href: /team/
-- text: Credenciales
   menu:  # Dropdown menu (one level deep only)
-  - text: Desarrollo e implementación de tecnología
-    href: /developments/
-  - text: Capacitación
-    href: /trainings/
-  - text: Reconocimientos
-    href: /recognitions/
+  - text: Equipo 
+    href: /team/
   - text: Publicaciones
     href: /publications/
+  - text: Reconocimientos
+    href: /recognitions/
+- text: Experiencia
+  menu:  # Dropdown menu (one level deep only)
+  - text: Desarrollos tecnológicos
+    href: /developments/
+  - text: Capacitación y Soporte
+    href: /training/
+  - text: Participación
+    href: /involvement/
 - text: Proyectos
   menu: # Dropdown menu (one level deep only)
   - text: Page 1
