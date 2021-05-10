@@ -2,7 +2,7 @@
 title: Prototipo para comparar riqueza de especies
 date: 2019-09-20
 description: Prototipo de "Plugin para QGIS" de FONAFIFO para comparar riqueza de especies en Costa Rica.
-background: "assets/img/4_cigecib_naturalista.jpg"
+background: "assets/img/QGIS_logo,_2017.svg.png"
 author: [William Ulate]
 categories: ["Desarrollo de Herramientas", "Generación de Productos", "Mejora de la Calidad de Datos", "Iniciativas nacionales", "Capacitación"]
 ---
@@ -14,3 +14,5 @@ Junto con la herramienta fue recopilada y curada una Base de Datos de más de 7 
 Manuel Vargas, miembro de CRBio con amplia experiencia en el área de Sistemas de Información Geográfica, acompañó el desarrollo de la herramienta, a cargo de la Directora de Desarrollo y Comercialización de Servicios Ambientales, Carmen Roldán Chacón (croldan@fonafifo.go.cr)
 
 Fuente: [Prototipo de “Plugin para QGIS” para comparar riqueza de especies en Costa Rica](https://www.chmcostarica.go.cr//actualidad/noticia/prototipo-de-plugin-para-qgis-para-comparar-riqueza-de-especies-en-costa-rica). Noticias del CHM Costa Rica
+
+Imágen tomada de [Wikimedia](https://commons.wikimedia.org/wiki/File:QGIS_logo,_2017.svg) CC-BY 3.0
