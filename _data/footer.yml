@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description: Some relevant links:
+  - description: Some relevant links:  
     links:
     - text: Global Biodiversity Information Facility (GBIF)
       href: http://www.gbif.org
