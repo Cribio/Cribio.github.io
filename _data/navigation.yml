@@ -23,8 +23,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: Plinian Core
     href: /plic/
-  - text: Page 2
-    href: /about/
+  - text: iNaturalist CR
+    href: /naturalistacr/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Portales" # Title for block of menu items
   - text: "Atlas de la Biodiversidad de Costa Rica"
