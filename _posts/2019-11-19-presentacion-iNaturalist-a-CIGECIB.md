@@ -4,7 +4,7 @@ date: 2019-11-19
 description: Presentación de iNaturalist al CIGECIB de la Estrategia para promocionar el uso de iNaturalist en Costa Rica.
 background: "assets/img/4_cigecib_naturalista.jpg"
 author: [William Ulate]
-categories: [" Participación Ciudadana ", "Promoción", "Capacitación"]
+categories: ["Participación Ciudadana", "Iniciativas globales", "Capacitación"]
 ---
 
 El 19 de Noviembre del 2019, durante la Cuarta Reunión de la Comisión Interinstitucional para la Gestión del Conocimiento y la Información sobre Biodiversidad (CIGECIB), Michelle Monge Velázquez, del ICOMVIS - UNA,  presentó la estrategia para promocionar el uso de la plataforma iNaturalist en Costa Rica.
