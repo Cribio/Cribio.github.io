@@ -10,8 +10,6 @@ permalink: /publications/
 
 Estas son algunas de las publicaciones y presentaciones de los miembros de CRBio:
 
-**Ulate W.**, Mora MM. Assessment of Annotation Needs of Botanists. Biodiversity Information Science and Standards 4: e59308, Oct. 2020. [DOI: 10.3897./biss.4.59308](https://doi.org/10.3897/biss.4.59308)
-
 **Vargas M.**, **Mora Cross M.**, **Cuadra J.**, **Ulate Rodríguez W.** Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core. Biodiversity Information Science and Standards 3: e35474, Jun. 2019. [DOI: 10.3897/biss.3.35474](https://doi.org/10.3897/biss.3.35474)
 
 **Ulate, W.** Lessons Learned from Managing Millions of Records to Create the World Flora Online. Biodiversity Information Science and Standards 3: e35245, Jun. 2019. [DOI:10.3897/biss.3.35245](https://doi.org/10.3897/biss.3.35245)
@@ -29,9 +27,11 @@ XXXIII Conferencia Latinoamericana en Informática, San José de Costa Rica, 9
 
 ### Otras publicaciones
 
-Estas son algunas de las publicaciones y presentaciones en las que han colaborado los miembros de CRBio a lo largo de su carrera profesional:
+Estas son otras publicaciones y presentaciones en las que han colaborado los miembros de CRBio a lo largo de su carrera profesional:
 
 Borsch, T., Berendsohn, W., Dalcin, E., Delmas, M., Demissew, S., Elliott, A., Fritsch, P., Fuchs, A., Geltman, D., Güner, A., Haevermans, T., Knapp, S., le Roux, M.M., Loizeau, P.‐A., Miller, C., Miller, J., Miller, J.T., Palese, R., Paton, A., Parnell, J., Pendry, C., Qin, H.‐N., Sosa, V., Sosef, M., von Raab‐Straube, E., Ranwashe, F., Raz, L., Salimov, R., Smets, E., Thiers, B., Thomas, W., Tulig, M., **Ulate, W.**, Ung, V., Watson, M., Jackson, P.W. and Zamora, N. World Flora Online: Placing taxonomists at the heart of a definitive and comprehensive global resource on the world's plants. TAXON, 69: 1311-1341, Nov. 2020. [DOI: 10.1002/tax.12373](https://doi.org/10.1002/tax.12373)
+
+**Ulate W.**, Mora MM. Assessment of Annotation Needs of Botanists. Biodiversity Information Science and Standards 4: e59308, Oct. 2020. [DOI: 10.3897./biss.4.59308](https://doi.org/10.3897/biss.4.59308)
 
 Woodburn M, Paul DL, Addink W, Baskauf SJ, Blum S, Chapman C, Grant S, Groom Q, Jones J, Petersen M, Raes N, Smith D, Tilley L, Trekels M, Trizna M, **Ulate W**, Vincent S, Walls R, Webbink K, Zermoglio P Unity in Variety: Developing a collection description standard by consensus. Biodiversity Information Science and Standards 4: e59233. Oct. 2020 [DOI: 10.3897/biss.4.59233](https://doi.org/10.3897/biss.4.59233)
 
