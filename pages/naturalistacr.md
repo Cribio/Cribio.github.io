@@ -10,11 +10,6 @@ permalink: /naturalistacr/
 
 La **Red global iNaturalist** es una colección de sitios web localizados que están completamente conectados a la comunidad iNaturalist global.
 
-NaturalistaCR es la puerta de entrada a la información sobre biodiversidad de Costa Rica para esta red global de iNaturalist.  Naturalista CR es una colaboración de la Comisión Interinstitucional para la Gestión del Conocimiento y la Información sobre Biodiversidad (CIGECIB), integrada por representantes de CONAGEBIO, CENIGA, el SINAC, el Museo Nacional de Costa Rica, MICITT y el CONARE.  
+**NaturalistaCR** es la puerta de entrada a la información sobre biodiversidad de Costa Rica para esta red global de iNaturalist.  Naturalista CR es una colaboración de la **Comisión Interinstitucional para la Gestión del Conocimiento y la Información sobre Biodiversidad (CIGECIB)**, integrada por representantes de CONAGEBIO, CENIGA, el SINAC, el Museo Nacional de Costa Rica, MICITT y el CONARE.  NaturalistaCR es coordinado por la **Comisión Nacional para el Manejo de la Biodiversidad (CONAGEBIO)** como parte de la Plataforma de Biodatos en Costa Rica.  
 
-NaturalistaCR es coordinado por la Comisión Nacional para el Manejo de la Biodiversidad (CONAGEBIO) como parte de la Plataforma de Biodatos en Costa Rica.  CRBio ayuda a esta iniciativa promoviendo, desarrollando y configurando el nodo en Costa Rica de esta red de Ciencia Ciudadana.  Además, CRBio contribuye a promover y apoyar la competencia anual Reto Naturalista Urbano en la Gran Área Metropolitana de Costa Rica desde que inició su participación por primera vez en el año 2020.
-
- 
-
- 
-
+**CRBio** apoya técnicamente a NaturalistaCR promoviendo, desarrollando y configurando el nodo en Costa Rica de la red de Ciencia Ciudadana iNaturalist.  Además, CRBio apoya la competencia anual Reto Naturalista Urbano en la Gran Área Metropolitana de Costa Rica desde que inició su participación por primera vez en el año 2020.
