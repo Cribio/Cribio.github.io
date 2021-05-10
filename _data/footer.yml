@@ -12,8 +12,7 @@ columns:
       href: http://www.tdwg.org
       new_window: true
 
-  - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source. 
+  - description: This project is made with ❤ for open source. 
     links:
     - text: CRBio GitHub
       href: https://github.com/Cribio
