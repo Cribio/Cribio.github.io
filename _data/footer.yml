@@ -14,11 +14,12 @@ columns:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is made with ❤ for open source. 
-[//]: # See [`_data/footer.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/footer.yml) to customize this text.
     links:
     - text: CRBio GitHub
       href: https://github.com/Cribio
       new_window: true
+
+[//]: # See [`_data/footer.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/footer.yml) to customize this text.
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
