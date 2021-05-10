@@ -10,4 +10,4 @@ Nuestro equipo tiene amplia experiencia en la concepción, programación, implem
   
 ### Directorio
 
-[//]: # ( On this page you can list team members by defining them in [`_data/team.yml`](https://github.com/Cribio/Cribio.github.io/blob/master/_data/team.yml) )
+
