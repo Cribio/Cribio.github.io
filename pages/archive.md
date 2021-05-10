@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: News
-description: News & blog posts
+title: Noticias
+description: Noticias relacionadas con CRBio
 background: /assets/img/CR-Bio-Logo-Web.png
 permalink: /blog/
 ---
