@@ -2,7 +2,7 @@
 layout: archive
 title: News
 description: News & blog posts
-background: /assets/img/CR-Bio-Logo-480.png
+background: /assets/img/CR-Bio-Logo-Web.png
 permalink: /blog/
 ---
 
