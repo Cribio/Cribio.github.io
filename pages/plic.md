@@ -2,7 +2,7 @@
 title: Plinian Core (PliC)
 description: Estándar para Información de Especies
 # background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
-background: /assets/img/Plic3.jpg
+background: /assets/img/PliC3.jpg 
 permalink: /plic/
 ---
 
