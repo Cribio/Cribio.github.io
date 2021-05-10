@@ -21,8 +21,8 @@
     href: /involvement/
 - text: Proyectos
   menu: # Dropdown menu (one level deep only)
-  - text: Page 1
-    href: /there-is-no-page-for-this-permalink/
+  - text: Plinian Core
+    href: /plic/
   - text: Page 2
     href: /about/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
