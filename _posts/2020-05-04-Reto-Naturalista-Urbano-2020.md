@@ -1,6 +1,6 @@
 ---
 title: Reto Naturalista Urbano GAM 2020
-date: 2019-05-04
+date: 2020-05-04
 description: Resultados Reto Naturalista Urbano Gran Area Metropolitana 2020.
 background: "assets/img/RetoNaturalistaUrbano2020-Resultados.jpg"
 author: [William Ulate]
