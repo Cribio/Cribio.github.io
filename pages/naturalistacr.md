@@ -3,7 +3,7 @@ title: Naturalista CR
 description: Gateway de iNaturalist para Costa Rica
 # background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
 background: /assets/img/NaturalistaCR.png 
-permalink: /naturalistaCR/
+permalink: /naturalistacr/
 ---
 
 **iNaturalist** es una iniciativa en conjunto entre la California Academy of Sciences y National Geographic Society que provee una plataforma de Ciencia Ciudadana con un sitio web y una aplicación móvil para aprender y registrar especies de Costa Rica.  En iNaturalist se crea un repositorio de fotografías de especies de plantas, animales, hongos y otros grupos de Costa Rica, alimentado por el público en general y científico.  
