@@ -7,7 +7,7 @@ permalink: /training/
 ---
 
 ### Desarrollo de Capacitacidades
-Entre muchos entrenamientos, capacitaciones, talleres y seminarios diseñaos, dirigidos e impartidos, podemos destacar los siguientes alcances: 
+Entre muchos entrenamientos, capacitaciones, talleres y seminarios diseñados, dirigidos e impartidos, podemos destacar los siguientes alcances: 
 - 36 talleres impartidos en diferentes países con la participación de más de 915 personas de 34 países (26 países de América, España, Benin, Bután, Kenia, Uganda, Tanzania, India y Sudáfrica)
 - Mentoring (proyectos de más de un año con el objetivo principal de fortalecer capacidades en BI en los países o regiones) de Nicaragua, Argentina, Chile, Benin, Cuba, Perú, Bután, Centroamérica (Herbarios de CA)
 - María Mora y Manuel Vargas forman parte del grupo de mentores y formadores del Biodiversity Information for Development (BID), un programa plurianual financiado por la Unión Europea y liderado por GBIF. Información en [PROGRAMA BID: Biodiversity Information for Development](https://www.gbif.org/es/programme/82243/bid-biodiversity-information-for-development)
