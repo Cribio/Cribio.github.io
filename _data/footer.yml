@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
+  - description: Some relevant links:
     links:
     - text: Global Biodiversity Information Facility (GBIF)
       href: http://www.gbif.org
@@ -14,6 +14,9 @@ columns:
 
   - description: This project is made with ❤ for open source. 
     links:
+    - text: iNaturalist
+      href: http://www.inaturalist.org
+      new_window: true
     - text: CRBio GitHub
       href: https://github.com/Cribio
       new_window: true
