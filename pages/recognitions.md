@@ -11,7 +11,7 @@ A través de los años, los miembros de CRBio han formado parte de varios exitos
 
 - 2003, Premio [Tech Museum of Innovation](www.techmuseum.org) en la categoría de Medio Ambiente, EE. UU.
 - 2004, Premio de Medio Ambiente Augusto González de Linares, Cantabria, España.
-  - [Bases del Premio Augusto González de Linares](https://boc.cantabria.es/bocesc/verAnuncioAtion.do?idAnuBlob=67716). Boletín Oficial de Cantabria No.120 p.6644. 
+  - [Bases del Premio Augusto González de Linares](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=67716). Boletín Oficial de Cantabria No.120 p.6644. 
   - [Premian al INBio](https://www.nacion.com/archivo/premian-al-inbio/G2WSZHF6VJGSBGAL3GZYEQ4AOU/story/). Sección El Pais. Periódico La Nación, 8 de setiembre del 2004.
   - [INBio gana premio español](http://wvw.aldia.cr/ad_ee/2004/septiembre/08/sociedad6.html). Recibió el González de Linares. Periódico Al Dia, 8 de setiembre del 2004.
 - 2005, Segundo Lugar, Premio Mejor Portal Iberoamericano de la Asociación Hispanoamericana de Centros de Investigación y Telecomunicaciones, Argentina
