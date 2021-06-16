@@ -14,7 +14,7 @@ CRBio cuenta en la actualidad con 12 miembros permanentes y su directorio está 
 &nbsp;  
 
 ![CRBio logo!](/assets/img/CR-Bio-Logo-75.jpg "CRBio logo")
-### El Logo  
+### El%20Logo  
 
 Nuestro logo se compone de un colibrí (*Amazilia boucardi*) amenazado, endémico de Costa Rica, pues nuestro interés es apoyar la conservación de la biodiversidad. El mapa de Costa Rica en el logo indica nuestro origen pero así como el colibrí difumina el mapa, nuestro enfoque ha aumentado del plano nacional a uno regional e internacional.
 
