@@ -16,7 +16,7 @@ Estas son algunas de las publicaciones y presentaciones de los miembros de CRBio
 
 **Manuel Vargas**, **María Mora**, **William Ulate**, **José Cuadra**, “The Living Atlases Community in Action: Sharing Species Pages through the Atlas of Living Costa Rica” Biodiversity Information Science and Standards 2: e25990, Aug. 2018. [DOI: 10.3897/biss.2.25990](https://doi.org/10.3897/biss.2.25990)
 
-**William Ulate**. Unlocking biodiversity knowledge through Text Mining and Crowdsourced Tagging of Legacy Literature.  Symposium S08. Expanding the Usefulness of Literature in Sustaining Biodiversity at TDWG 2014 Annual Conference, Oct. 2014. [TDWG 2014 - Paper 557]([https://mbgocs.mobot.org/index.php/tdwg/2014/paper/view/557)
+**William Ulate**. Unlocking biodiversity knowledge through Text Mining and Crowdsourced Tagging of Legacy Literature.  Symposium S08. Expanding the Usefulness of Literature in Sustaining Biodiversity at TDWG 2014 Annual Conference, Oct. 2014. [TDWG 2014 - Paper 557](https://mbgocs.mobot.org/index.php/tdwg/2014/paper/view/557)
 
 **William Ulate**. Expanding the Biodiversity Heritage Library.  Symposium: Crafting the future of a Global Biodiversity Heritage Library for diverse community’s needs at TDWG 2013 Annual Conference, Oct. 2013. [TDWG 2013 - Paper 455](https://mbgocs.mobot.org/index.php/tdwg/2013/paper/view/455) 
 
