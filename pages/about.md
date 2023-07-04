@@ -26,16 +26,7 @@ El colibrí *Amazilia boucardi* mide en promedio 9.5 cm. y pesa aproximadamente 
 
 *Amazilia boucardi* es considerada una especie bajo amenaza de extinción, debido a la pérdida de su hábitat por la deforestación. Está protegida y regulada por la Ley de Conservación de la Vida Silvestre No. 7317, la Ley Orgánica del Ambiente No. 7554 y el decreto No. 26435-MINAE. Asimismo está incluida en el Apéndice ll del Convenio sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre (CITES). 
 
-## Results {.tabset}
-
-=== "Primer Tab"
-    ```` Primer tab
-    Contenido
-    ````
-
-=== "Segundo Tab"
-    ```` Secundo tab
-    Mas contenido
-    ````
-
-=== {-}
+=== "Tab Title A"
+    some markdown content
+=== "Tab Title B"
+    some other markdown content
