@@ -29,7 +29,13 @@ El colibrí *Amazilia boucardi* mide en promedio 9.5 cm. y pesa aproximadamente 
 ## Results {.tabset}
 
 === "Primer Tab"
+    ```` Primer tab
+    Contenido
+    ````
 
 === "Segundo Tab"
+    ```` Secundo tab
+    Mas contenido
+    ````
 
 === {-}
